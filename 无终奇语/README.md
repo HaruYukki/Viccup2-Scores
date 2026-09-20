@@ -31,5 +31,3 @@
 ## 维护
 
 页面、样式和计算逻辑均在 `index.html` 中。`emergency`、`bosses`、`repeats` 数组定义项目；`calculate()` 负责组合计分。取消主项目会清除并禁用其附加勾选项。
-
-如果仓库已启用 GitHub Pages，页面路径为 `/Viccup2-Scores/无终奇语/`。
